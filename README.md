@@ -23,9 +23,11 @@ Olá, bem vindo! Eu sou Carlos Junior <img src="https://media.giphy.com/media/12
   ##
   
 <div>
-  <a href="https://www.instagram.com/theuraim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carlosjunior026@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-j%C3%BAnior-72329414b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
+  <a href="https://www.instagram.com/theuraim/" target="_blank"><img align= "left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <br />
+  <a href = "mailto:carlosjunior026@hotmail.com"><img align = "left" src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=dark" target="_blank"></a>
+  <br />
+  <a href="https://www.linkedin.com/in/carlos-j%C3%BAnior-72329414b/" target="_blank"><img align = "left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
   
  ![Snake animation](https://github.com/Theuraim/Theuraim/blob/output/github-contribution-grid-snake.svg)
 </div>
