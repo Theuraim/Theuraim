@@ -19,15 +19,5 @@ Olá, bem vindo! Eu sou Carlos Junior <img src="https://media.giphy.com/media/12
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
- 
-  ##
-  
-<div>
-  <a href="https://www.instagram.com/theuraim/" target="_blank"><img align= "left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <br />
-  <a href = "mailto:carlosjunior026@hotmail.com"><img align = "left" src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=dark" target="_blank"></a>
-  <br />
-  <a href="https://www.linkedin.com/in/carlos-j%C3%BAnior-72329414b/" target="_blank"><img align = "left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
-  
- ![Snake animation](https://github.com/Theuraim/Theuraim/blob/output/github-contribution-grid-snake.svg)
+
 </div>
